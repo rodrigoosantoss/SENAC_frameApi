@@ -1,0 +1,70 @@
+{
+  "alunos": [
+    {
+      "id": 1,
+      "matricula": "1010",
+      "nome": "Fulano",
+      "telefone": "(51)33446666"
+    },
+    {
+      "matricula": "2020",
+      "nome": "Sicrano",
+      "telefone": "(51)99996666",
+      "id": 2
+    },
+    {
+      "matricula": "3030",
+      "nome": "Teste",
+      "telefone": "(51)88998989",
+      "id": 3
+    },
+    {
+      "matricula": "4040",
+      "nome": "Beltrano",
+      "telefone": "(55)33445566",
+      "id": 4
+    },
+    {
+      "matricula": "5050",
+      "nome": "Teste 2",
+      "telefone": "Sem telefone",
+      "id": 5
+    },
+    {
+      "matricula": "6060",
+      "nome": "Teste 3",
+      "telefone": "Sem telefone",
+      "id": 6
+    },
+    {
+      "matricula": "7070",
+      "nome": "Aluno 7",
+      "telefone": "Sem Telefone",
+      "id": 7
+    },
+    {
+      "matricula": "000232",
+      "nome": "rodrigo 21",
+      "telefone": "51 999999",
+      "id": 8
+    },
+    {
+      "matricula": "001010",
+      "nome": "rodrigo 22",
+      "telefone": "51999999",
+      "id": 9
+    },
+    {
+      "matricula": "0303",
+      "nome": "rodrigo 0303",
+      "telefone": "51 999999",
+      "id": 10
+    },
+    {
+      "matricula": "002020",
+      "nome": "rodrigo 2020",
+      "telefone": "51 999999",
+      "id": 11
+    }
+  ]
+}
